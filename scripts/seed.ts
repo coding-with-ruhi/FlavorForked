@@ -1,8 +1,9 @@
+import 'dotenv/config'
 import * as fs from 'fs'
 import * as path from 'path'
-import { connectToDatabase, closeDatabase } from '../src/server/db/client.js'
-import * as knowledgeRepo from '../src/server/db/repos/knowledge.js'
-import { createAllIndexes } from '../src/server/db/indexes.js'
+import { connectToDatabase, closeDatabase } from '../src/server/db/client'
+import * as knowledgeRepo from '../src/server/db/repos/knowledge'
+import { createAllIndexes } from '../src/server/db/indexes'
 
 async function loadJsonFile<T>(filePath: string): Promise<T> {
   const absolutePath = path.join(process.cwd(), filePath)

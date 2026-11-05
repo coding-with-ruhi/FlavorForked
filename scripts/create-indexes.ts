@@ -1,5 +1,6 @@
-import { connectToDatabase, closeDatabase } from '../src/server/db/client.js'
-import { createAllIndexes } from '../src/server/db/indexes.js'
+import 'dotenv/config'
+import { connectToDatabase, closeDatabase } from '../src/server/db/client'
+import { createAllIndexes } from '../src/server/db/indexes'
 
 async function main() {
   try {
