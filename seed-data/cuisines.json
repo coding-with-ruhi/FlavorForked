@@ -1,0 +1,46 @@
+[
+  {
+    "cuisine_name": "asian",
+    "techniques": ["stir-fry", "steaming", "boiling", "wok cooking"],
+    "flavor_profile": {
+      "salty": 7,
+      "spicy": 6,
+      "sour": 5,
+      "sweet": 4,
+      "umami": 8
+    }
+  },
+  {
+    "cuisine_name": "italian",
+    "techniques": ["pan-fry", "simmering", "baking", "grilling"],
+    "flavor_profile": {
+      "salty": 6,
+      "spicy": 2,
+      "sour": 6,
+      "sweet": 3,
+      "umami": 7
+    }
+  },
+  {
+    "cuisine_name": "indian",
+    "techniques": ["tempering", "curry making", "tandoor baking", "frying"],
+    "flavor_profile": {
+      "salty": 6,
+      "spicy": 8,
+      "sour": 5,
+      "sweet": 4,
+      "umami": 6
+    }
+  },
+  {
+    "cuisine_name": "american",
+    "techniques": ["grilling", "frying", "roasting", "baking"],
+    "flavor_profile": {
+      "salty": 7,
+      "spicy": 3,
+      "sour": 3,
+      "sweet": 6,
+      "umami": 6
+    }
+  }
+]

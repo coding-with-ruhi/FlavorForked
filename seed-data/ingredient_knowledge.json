@@ -1,0 +1,137 @@
+[
+  {
+    "canonical_name": "chicken_breast",
+    "category": "protein",
+    "diet_tags": ["meat", "non_veg"],
+    "default_unit": "g",
+    "grams_per_unit": { "piece": 200, "lb": 453.6 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "rice",
+    "category": "grain",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "cup": 185, "tbsp": 12 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "tomato",
+    "category": "vegetable",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "medium": 150, "cup": 240 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "garlic",
+    "category": "vegetable",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "clove": 3, "tbsp": 9 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "olive_oil",
+    "category": "oil",
+    "diet_tags": [],
+    "default_unit": "ml",
+    "grams_per_unit": { "tbsp": 14, "cup": 236 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "salt",
+    "category": "seasoning",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "tsp": 6, "tbsp": 18 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "black_pepper",
+    "category": "spice",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "tsp": 2.3, "tbsp": 7 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "onion",
+    "category": "vegetable",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "medium": 150, "cup": 160 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "egg",
+    "category": "protein",
+    "diet_tags": ["egg"],
+    "default_unit": "piece",
+    "grams_per_unit": { "large": 50 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "all_purpose_flour",
+    "category": "flour",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "cup": 125, "tbsp": 8 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "butter",
+    "category": "dairy",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "tbsp": 14, "cup": 227 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "milk",
+    "category": "dairy",
+    "diet_tags": [],
+    "default_unit": "ml",
+    "grams_per_unit": { "cup": 237, "tbsp": 15 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "water",
+    "category": "liquid",
+    "diet_tags": [],
+    "default_unit": "ml",
+    "grams_per_unit": { "cup": 237, "tbsp": 15 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "sugar",
+    "category": "sweetener",
+    "diet_tags": [],
+    "default_unit": "g",
+    "grams_per_unit": { "cup": 200, "tbsp": 13, "tsp": 4 },
+    "source": "seed",
+    "needs_review": false
+  },
+  {
+    "canonical_name": "beef",
+    "category": "protein",
+    "diet_tags": ["meat", "non_veg"],
+    "default_unit": "g",
+    "grams_per_unit": { "lb": 453.6 },
+    "source": "seed",
+    "needs_review": false
+  }
+]

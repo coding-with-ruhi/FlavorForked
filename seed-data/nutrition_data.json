@@ -1,0 +1,102 @@
+[
+  {
+    "canonical_name": "chicken_breast",
+    "calories_per_100g": 165,
+    "protein_per_100g": 31,
+    "fat_per_100g": 3.6,
+    "carbs_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "rice",
+    "calories_per_100g": 130,
+    "protein_per_100g": 2.7,
+    "fat_per_100g": 0.3,
+    "carbs_per_100g": 28,
+    "fiber_per_100g": 0.4,
+    "sugar_per_100g": 0.1,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "tomato",
+    "calories_per_100g": 18,
+    "protein_per_100g": 0.9,
+    "fat_per_100g": 0.2,
+    "carbs_per_100g": 3.9,
+    "fiber_per_100g": 1.2,
+    "sugar_per_100g": 2.6,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "garlic",
+    "calories_per_100g": 149,
+    "protein_per_100g": 6.4,
+    "fat_per_100g": 0.5,
+    "carbs_per_100g": 33,
+    "fiber_per_100g": 2.1,
+    "sugar_per_100g": 1,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "olive_oil",
+    "calories_per_100g": 884,
+    "protein_per_100g": 0,
+    "fat_per_100g": 100,
+    "carbs_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "salt",
+    "calories_per_100g": 0,
+    "protein_per_100g": 0,
+    "fat_per_100g": 0,
+    "carbs_per_100g": 0,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "egg",
+    "calories_per_100g": 155,
+    "protein_per_100g": 13,
+    "fat_per_100g": 11,
+    "carbs_per_100g": 1.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0.4,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "all_purpose_flour",
+    "calories_per_100g": 364,
+    "protein_per_100g": 10,
+    "fat_per_100g": 1,
+    "carbs_per_100g": 76,
+    "fiber_per_100g": 2.7,
+    "sugar_per_100g": 0.3,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "butter",
+    "calories_per_100g": 717,
+    "protein_per_100g": 0.9,
+    "fat_per_100g": 81,
+    "carbs_per_100g": 0.1,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 0,
+    "caffeine_mg_per_100g": 0
+  },
+  {
+    "canonical_name": "milk",
+    "calories_per_100g": 61,
+    "protein_per_100g": 3.2,
+    "fat_per_100g": 3.3,
+    "carbs_per_100g": 4.8,
+    "fiber_per_100g": 0,
+    "sugar_per_100g": 5,
+    "caffeine_mg_per_100g": 5
+  }
+]

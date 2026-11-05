@@ -1,0 +1,32 @@
+[
+  {
+    "recipe_name": "chicken_fried_rice",
+    "category": "meal",
+    "ingredients": ["chicken_breast", "rice", "egg", "onion", "garlic"],
+    "techniques": ["stir-fry", "boil"]
+  },
+  {
+    "recipe_name": "garlic_butter_chicken",
+    "category": "meal",
+    "ingredients": ["chicken_breast", "garlic", "butter", "salt", "black_pepper"],
+    "techniques": ["pan-fry", "simmer"]
+  },
+  {
+    "recipe_name": "tomato_rice",
+    "category": "meal",
+    "ingredients": ["rice", "tomato", "onion", "garlic", "olive_oil", "salt"],
+    "techniques": ["simmer", "boil"]
+  },
+  {
+    "recipe_name": "simple_cake",
+    "category": "dessert",
+    "ingredients": ["all_purpose_flour", "egg", "sugar", "butter", "milk"],
+    "techniques": ["mix", "bake"]
+  },
+  {
+    "recipe_name": "butter_cookies",
+    "category": "dessert",
+    "ingredients": ["butter", "sugar", "all_purpose_flour", "egg"],
+    "techniques": ["cream", "bake"]
+  }
+]

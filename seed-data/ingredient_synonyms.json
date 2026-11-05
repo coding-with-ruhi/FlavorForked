@@ -1,0 +1,18 @@
+[
+  { "raw_term": "chicken", "canonical_name": "chicken_breast" },
+  { "raw_term": "chicken breast", "canonical_name": "chicken_breast" },
+  { "raw_term": "white rice", "canonical_name": "rice" },
+  { "raw_term": "basmati rice", "canonical_name": "rice" },
+  { "raw_term": "tomatoes", "canonical_name": "tomato" },
+  { "raw_term": "tom", "canonical_name": "tomato" },
+  { "raw_term": "garlic clove", "canonical_name": "garlic" },
+  { "raw_term": "garlic cloves", "canonical_name": "garlic" },
+  { "raw_term": "oil", "canonical_name": "olive_oil" },
+  { "raw_term": "extra virgin olive oil", "canonical_name": "olive_oil" },
+  { "raw_term": "pepper", "canonical_name": "black_pepper" },
+  { "raw_term": "onions", "canonical_name": "onion" },
+  { "raw_term": "eggs", "canonical_name": "egg" },
+  { "raw_term": "flour", "canonical_name": "all_purpose_flour" },
+  { "raw_term": "beef", "canonical_name": "beef" },
+  { "raw_term": "ground beef", "canonical_name": "beef" }
+]
